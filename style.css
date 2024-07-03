@@ -16,6 +16,10 @@ body {
 h1 {
   font-size: 42px;
   position: relative;
+  text-align: center;
+}
+h4 {
+  text-align: center;
 }
 #dark {
   position: absolute;
